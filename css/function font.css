@@ -1,0 +1,55 @@
+@font-face {
+	/* ie */
+	font-family: 'FunctionProBook';
+	src: url('../fonts/FunctionPro-Book-webfont.eot');
+}
+
+@font-face {
+	/* all others*/
+	font-family: 'FunctionProBook';
+	src: url(//:) format('no404'), url('../fonts/FunctionPro-Book-webfont.woff') format('woff'), url('../fonts/FunctionPro-Book-webfont.ttf') format('truetype'), url('../fonts/FunctionPro-Book-webfont.svg#webfont3yluhAu4') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	/* ie */
+	font-family: 'FunctionProLight';
+	src: url('../fonts/FunctionPro-Light-webfont.eot');
+}
+
+@font-face {
+	/* all others*/
+	font-family: 'FunctionProLight';
+	src: url(//:) format('no404'), url(../fonts/'FunctionPro-Light-webfont.woff') format('woff'), url('../fonts/FunctionPro-Light-webfont.ttf') format('truetype'), url('../fonts/FunctionPro-Light-webfont.svg#webfontCglb3ujp') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	/* ie */
+	font-family: 'FunctionProMedium';
+	src: url('../fonts/FunctionPro-Medium-webfont.eot');
+}
+
+@font-face {
+	/* all others*/
+	font-family: 'FunctionProMedium';
+	src: url(//:) format('no404'), url('../fonts/FunctionPro-Medium-webfont.woff') format('woff'), url('../fonts/FunctionPro-Medium-webfont.ttf') format('truetype'), url('../fonts/FunctionPro-Medium-webfont.svg#webfontrF77UyWk') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	/* ie */
+	font-family: 'FunctionProDemi';
+	src: url('../fonts/FunctionPro-Demi-webfont.eot');
+}
+
+@font-face {
+	/* all others*/
+	font-family: 'FunctionProDemi';
+	src: url(//:) format('no404'), url('../fonts/FunctionPro-Demi-webfont.woff') format('woff'), url('../fonts/FunctionPro-Demi-webfont.ttf') format('truetype'), url('../fonts/FunctionPro-Demi-webfont.svg#webfontalFyZ4NE') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
